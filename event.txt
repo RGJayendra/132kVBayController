@@ -1,0 +1,1531 @@
+
+Date:-09/09/2022  Time:-11:33:08 ---->Eq. State or Alarm Change
+
+Circuit Breaker   (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:33:27 ---->Eq. State or Alarm Change
+VT MCB TRIP
+
+Circuit Breaker   (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:33:27 ---->Eq. State or Alarm Change
+
+Circuit Breaker   (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:38:36 ---->Eq. State or Alarm Change
+
+Circuit Breaker   (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:38:49 ---->Eq. State or Alarm Change
+
+Circuit Breaker   (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:39:38 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:40:20 ---->Eq. State or Alarm Change
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:40:21 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:41:27 ---->Eq. State or Alarm Change
+Synk Not Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:41:28 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:41:28 ---->Eq. State or Alarm Change
+Synk Not Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:41:29 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:45:34 ---->Eq. State or Alarm Change
+Synk Not Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:45:35 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:45:42 ---->Eq. State or Alarm Change
+Synk Not Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:45:50 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:46:03 ---->Eq. State or Alarm Change
+Synk Not Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:46:08 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:46:08 ---->Eq. State or Alarm Change
+Synk Not Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:46:12 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:47:01 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:47:07 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:47:11 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:47:36 ---->Eq. State or Alarm Change
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:47:37 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:47:40 ---->Eq. State or Alarm Change
+SF6 LOCK OUT
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:47:41 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:47:44 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:47:45 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:47:47 ---->Eq. State or Alarm Change
+CB_MCB_TRIP
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:47:49 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:47:51 ---->Eq. State or Alarm Change
+POLE DISCREPANCY
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:47:53 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:48:05 ---->Eq. State or Alarm Change
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:48:06 ---->Eq. State or Alarm Change
+SF6 LOCK OUT
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:48:08 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:48:11 ---->Eq. State or Alarm Change
+SF6 LOCK OUT
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:48:11 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:48:13 ---->Eq. State or Alarm Change
+SF6 LOCK OUT
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:48:14 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:48:14 ---->Eq. State or Alarm Change
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:48:16 ---->Eq. State or Alarm Change
+SF6 LOCK OUT
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:48:16 ---->Eq. State or Alarm Change
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:48:17 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:48:22 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+SF6 LOCK OUT
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:48:38 ---->Eq. State or Alarm Change
+POLE DISCREPANCY
+SPRING_DISCHARGE
+SF6 LOCK OUT
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:48:40 ---->Eq. State or Alarm Change
+POLE DISCREPANCY
+CB_MCB_TRIP
+SPRING_DISCHARGE
+SF6 LOCK OUT
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:48:42 ---->Eq. State or Alarm Change
+POLE DISCREPANCY
+SPRING_DISCHARGE
+SF6 LOCK OUT
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:48:45 ---->Eq. State or Alarm Change
+POLE DISCREPANCY
+CB_MCB_TRIP
+SPRING_DISCHARGE
+SF6 LOCK OUT
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:49:04 ---->Eq. State or Alarm Change
+POLE DISCREPANCY
+SPRING_DISCHARGE
+SF6 LOCK OUT
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022 Time:-11:49:16---->Bus02 Disconnector ON Order
+POLE DISCREPANCY
+SPRING_DISCHARGE
+SF6 LOCK OUT
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022 Time:-11:49:52---->Bus02 Disconnector ON Order
+POLE DISCREPANCY
+SPRING_DISCHARGE
+SF6 LOCK OUT
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022 Time:-11:50:02---->  Line Disconnector ON Order
+POLE DISCREPANCY
+SPRING_DISCHARGE
+SF6 LOCK OUT
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022 Time:-11:50:12---->Line Disconnector OFF Order
+POLE DISCREPANCY
+SPRING_DISCHARGE
+SF6 LOCK OUT
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:50:23 ---->Circuit Breaker ON Order
+POLE DISCREPANCY
+SPRING_DISCHARGE
+SF6 LOCK OUT
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:50:31 ---->Circuit Breaker OFF Order
+POLE DISCREPANCY
+SPRING_DISCHARGE
+SF6 LOCK OUT
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:51:50 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+SF6 LOCK OUT
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:51:52 ---->Eq. State or Alarm Change
+SF6 LOCK OUT
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:51:53 ---->Eq. State or Alarm Change
+SF6 ALARM
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:51:54 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-11:52:04 ---->Circuit Breaker ON Order
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022 Time:-11:54:14---->Bus01 Disconnector ON Order
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022 Time:-11:56:02---->Bus01 Disconnector ON Order
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022 Time:-11:56:08---->Bus01 Disconnector ON Order
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022 Time:-11:56:14---->Bus02 Disconnector ON Order
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:09:57 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:10:55 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:16:20 ---->Eq. State or Alarm Change
+VT MCB TRIP
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:16:23 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:16:24 ---->Eq. State or Alarm Change
+VT MCB TRIP
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:16:27 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:31:32 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-13:32:00 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:33:54 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-13:34:11 ---->Eq. State or Alarm Change
+Bus01 Disconnector (Q1) -OFF
+Date:-09/09/2022  Time:-13:34:11 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-13:34:24 ---->Eq. State or Alarm Change
+SF6 ALARM
+Date:-09/09/2022  Time:-13:34:24 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-13:34:48 ---->Eq. State or Alarm Change
+SF6 ALARM
+Date:-09/09/2022  Time:-13:34:48 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-13:34:52 ---->Circuit Breaker ON Order
+Date:-09/09/2022  Time:-13:35:06 ---->Eq. State or Alarm Change
+CB_MCB_TRIP
+Date:-09/09/2022  Time:-13:35:07 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-13:35:07 ---->Circuit Breaker OFF Order
+Date:-09/09/2022 Time:-13:35:14---->Bus02 Disconnector ON Order
+Date:-09/09/2022  Time:-13:35:15 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:35:37 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:35:37 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:36:23 ---->Eq. State or Alarm Change
+CB_MCB_TRIP
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:36:24 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:37:05 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-13:37:07 ---->Eq. State or Alarm Change
+SF6 ALARM
+Date:-09/09/2022  Time:-13:37:08 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-13:37:12 ---->Eq. State or Alarm Change
+SF6 ALARM
+Date:-09/09/2022  Time:-13:37:12 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-13:37:32 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:37:42 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-13:37:49 ---->Eq. State or Alarm Change
+VT MCB TRIP
+Date:-09/09/2022  Time:-13:37:49 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-13:37:53 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:39:33 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:39:33 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:39:59 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:39:59 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:40:15 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-13:40:27 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+Date:-09/09/2022  Time:-13:40:27 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-13:40:29 ---->Eq. State or Alarm Change
+SF6 LOCK OUT
+Date:-09/09/2022  Time:-13:40:30 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-13:40:40 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:41:02 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:41:02 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:41:49 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022 Time:-13:41:56---->Bus01 Disconnector ON Order
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:41:56 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:42:01 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022 Time:-13:42:31---->  Line Disconnector ON Order
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:42:31 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:42:36 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:48:04 ---->Circuit Breaker ON Order
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:48:07 ---->Circuit Breaker ON Order
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:48:09 ---->Circuit Breaker ON Order
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:48:18 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-13:48:32 ---->Eq. State or Alarm Change
+Bus01 Disconnector (Q1) -ON
+Date:-09/09/2022  Time:-13:48:32 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:48:43 ---->Circuit Breaker ON Order
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:48:45 ---->Circuit Breaker ON Order
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:48:47 ---->Circuit Breaker ON Order
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:50:01 ---->Circuit Breaker ON Order
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:50:08 ---->Circuit Breaker ON Order
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:53:57 ---->Circuit Breaker ON Order
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:54:02 ---->Circuit Breaker OFF Order
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:54:04 ---->Circuit Breaker OFF Order
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:58:23 ---->Circuit Breaker ON Order
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-13:58:51 ---->Circuit Breaker ON Order
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:00:06 ---->Eq. State or Alarm Change
+CB_MCB_TRIP
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:00:06 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:00:16 ---->Circuit Breaker ON Order
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:02:54 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:02:55 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:04:37 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:04:37 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:05:07 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:05:07 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:05:08 ---->Eq. State or Alarm Change
+CB_MCB_TRIP
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:05:08 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:05:09 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:05:10 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:05:47 ---->Eq. State or Alarm Change
+CB_MCB_TRIP
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:05:48 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:06:12 ---->Circuit Breaker ON Order
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:07:27 ---->Circuit Breaker ON Order
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:08:12 ---->Circuit Breaker ON Order
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:08:27 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:08:27 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:10:25 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:10:25 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:11:39 ---->Eq. State or Alarm Change
+CB_MCB_TRIP
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:11:39 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:14:36 ---->Eq. State or Alarm Change
+CB_MCB_TRIP
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:14:36 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:15:00 ---->Eq. State or Alarm Change
+CB_MCB_TRIP
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:15:01 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:15:36 ---->Circuit Breaker ON Order
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:15:53 ---->Circuit Breaker ON Order
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:16:45 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:16:46 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:17:03 ---->Eq. State or Alarm Change
+CB_MCB_TRIP
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:17:03 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:18:39 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:18:39 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:19:16 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:19:16 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:19:20 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:19:20 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:19:41 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:19:41 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:22:05 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:22:05 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:22:52 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:22:53 ---->Eq. State or Alarm Change
+Sync Ok
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -ON
+Bus01 Disconnector (Q1) -ON
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-09/09/2022  Time:-14:22:57 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-14:22:58 ---->Eq. State or Alarm Change
+CB_MCB_TRIP
+Date:-09/09/2022  Time:-14:22:58 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-14:22:59 ---->Eq. State or Alarm Change
+SF6 LOCK OUT
+Date:-09/09/2022  Time:-14:22:59 ---->Eq. State or Alarm Change
+Date:-09/09/2022 Time:-14:23:27---->Bus01 Disconnector ON Order
+Date:-09/09/2022  Time:-14:23:48 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+Date:-09/09/2022  Time:-14:23:48 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-14:24:08 ---->Eq. State or Alarm Change
+Line Disconnector  (Q9) -OFF
+Date:-09/09/2022  Time:-14:24:08 ---->Eq. State or Alarm Change
+Date:-09/09/2022  Time:-14:24:09 ---->Eq. State or Alarm Change
+POLE DISCREPANCY
+Date:-09/09/2022  Time:-14:24:09 ---->Eq. State or Alarm Change
+Date:-14/09/2022  Time:-10:37:52 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-14/09/2022  Time:-10:38:15 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-14/09/2022  Time:-10:41:17 ---->Circuit Breaker ON Order
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-14/09/2022  Time:-10:42:44 ---->Circuit Breaker ON Order
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-14/09/2022  Time:-10:46:01 ---->Circuit Breaker ON Order
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-14/09/2022  Time:-10:46:13 ---->Circuit Breaker ON Order
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-14/09/2022  Time:-10:49:42 ---->Circuit Breaker ON Order
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-14/09/2022  Time:-10:49:46 ---->Circuit Breaker ON Order
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-14/09/2022  Time:-10:54:01 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-14/09/2022  Time:-10:55:01 ---->Eq. State or Alarm Change
+SPRING_DISCHARGE
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+
+Date:-14/09/2022  Time:-10:55:02 ---->Eq. State or Alarm Change
+
+Circuit Breaker    (Q0) -OFF
+Line Disconnector  (Q9) -OFF
+Bus01 Disconnector (Q1) -OFF
+Bus02 Disconnector (Q2) -OFF
+Earth Switch       (Q9) -OFF
+

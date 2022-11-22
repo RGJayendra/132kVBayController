@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<!-- saved from url=(0064)file:///C:/Users/Admin/Downloads/web_server_IO%20-%202/index.htm -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+        <title>Amb01_Bay_Unit</title>
+        <script>
+		strDEL_E = "";
+		function GetArduinoIO()
+		{
+			nocache = "&nocache=" + Math.random() * 1000000;
+			var request = new XMLHttpRequest();
+			request.onreadystatechange = function()
+			{
+				if (this.readyState == 4) {
+					if (this.status == 200) {
+						if (this.responseXML != null) {
+							// XML file received - contains analog values, switch values and LED states
+							var count;
+							// get analog inputs
+							var num_an = this.responseXML.getElementsByTagName('analog').length;
+							for (count = 0; count < num_an; count++) {
+								document.getElementsByClassName("analog")[count].innerHTML =
+									this.responseXML.getElementsByTagName('analog')[count].childNodes[0].nodeValue;
+							}
+							// get switch inputs
+							var num_an = this.responseXML.getElementsByTagName('switch').length;
+							for (count = 0; count < num_an; count++) {
+								document.getElementsByClassName("switches")[count].innerHTML =
+									this.responseXML.getElementsByTagName('switch')[count].childNodes[0].nodeValue;
+							}													
+						}
+					}
+				}
+			}
+			// send HTTP GET request with LEDs to switch on/off if any
+			request.open("GET", "ajax_inputs" + strDEL_E +  nocache, true);
+			request.send(null);
+			setTimeout('GetArduinoIO()', 1000);
+			strDEL_E = "";
+		}
+		
+		function GetButton1()
+		{
+		strDEL_E = "&Del_E";	
+		}
+		
+	</script>
+
+	<style>
+		.IO_box {
+			float: left;
+			margin: 0 20px 20px 0;
+			border: 1px solid blue;
+			padding: 0 5px 0 5px;
+			width: 390px;
+		}
+		h1 {
+			font-size: 240%;
+			color: black;
+			margin: 0 0 14px 0;
+		}
+		h2 {
+			font-size: 200%;
+			color: #5734E6;
+			margin: 5px 0 5px 0;
+		}
+		p, form, button {
+			font-size: 80%;
+			color: #252525;
+		}
+		.small_text {
+			font-size: 100%;
+			color: #737373;
+		}
+	</style>
+
+    </head>
+
+    <body onload="GetArduinoIO()">
+        <h1><center>132kV Ambalangoda Line Bay 01</center></h1><h1><center>Matugam GS</center></h1>
+        
+		<div class="IO_box">
+			<h2>Equipment Status
+			<p>Line Voltage--- <span class="analog">...</span>kV</p>
+			<p>Bus1 Voltage--- <span class="analog">...</span>kV</p>
+			<p>Bus2 Voltage--- <span class="analog">...</span>kV</p>
+			<p>Busbar 01 Disconnector .. Q1 <span class="switches">...</span></p>
+			<p>Busbar 02 Disconnector .. Q2 <span class="switches">...</span></p>
+			<p>Circuit Breaker ................ Q0 <span class="switches">...</span></p>
+			<p>Line Disconnector ............ Q9 <span class="switches">...</span></p>
+			<p>Earth Switch ......................Q8 <span class="switches">...</span></p></h2>
+		</div>
+
+		<div class="IO_box">
+			<h2>Alarms
+			<p>VT_MCB_TRIP-------------><span class="switches">...</span></p>
+			<p>POLE_DISCREPANCY----><span class="switches">...</span></p>
+			<p>CB_MCB_TRIP-------------><span class="switches">...</span></p>
+			<p>SPRING_DISCHARGE----><span class="switches">...</span></p>
+			<p>SYNC_NOT_OK-------------><span class="switches">...</span></p>
+			<p>INTERLOCK_NOT_OK---><span class="switches">...</span></p>
+			<p>SF6_ALARM-----------------><span class="switches">...</span></p>
+			<p>SF6_LOCKOUT-------------><span class="switches">...</span></p></h2>
+		</div>
+
+		<div class="IO_box">
+			<h2>Event Records</h2>
+			<p></p>
+			<h1></h1>
+			<p></p>
+			<h1></h1>
+			<button type="button" id="Mem_Clear" onclick="GetButton1()">Clear Event Memory</button><br><br>
+            <object data="event.txt" width="380" height="414"></object>
+			
+			
+		</div> 
+
+</body></html>
